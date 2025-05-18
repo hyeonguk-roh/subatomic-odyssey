@@ -1,1 +1,2 @@
-# quantum-quest
+# Subatomic Odyssey
+Subatomic Odyssey is a text-oriented idle incremental game that immerses players in the subatomic world of quantum physics. Players begin as a single particle, collecting "quanta" (a fictional resource representing quantum energy) to unlock new particle types, explore energy levels, and manipulate quantum phenomena like superposition and entanglement. The game combines resource management, strategic upgrades, and automation, with a narrative casting players as a quantum AI or physicist stabilizing the subatomic realm. Progression unfolds through stages, from basic particles to complex quantum systems, with challenges like wave collapses adding strategic depth.
